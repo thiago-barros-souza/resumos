@@ -1,0 +1,71 @@
+Scrum como usar? Saiba utilizá-lo de forma inteligente!
+
+Autor: Virgilio F. M. dos Santos
+Categorias: Gestão de Projetos
+
+* O que é um Sprint?
+Scrum como usar? Um Sprint ou Iteração é a unidade de desenvolvimento no Scrum. Geralmente dura 2 semanas, mas pode demorar de 1 semana a um mês inteiro. Essa iteração é um esforço de caixa de tempo fechado para entregar um incremento de produto. A duração de um Sprint pode ser alterada de Sprint para Sprint, mas deve ser determinada antes do início de cada um. Cada Sprint começa com uma Reunião de Planejamento do Sprint / Backlog que visa definir os Itens do mesmo. Esses itens são o trabalho que as equipes de desenvolvimento se comprometem a entregar no final desse Sprint.
+
+A estrutura do Scrum enfatiza que no final de cada sprint deve haver um produto funcional, o que significa que todos os itens são FEITOS. A definição de DONE deve ser determinada pela Equipe de Desenvolvimento com a ajuda do Scrum Master. Geralmente, representa, para software, o software que foi totalmente desenvolvido, refatorado, testado, documentado e potencialmente pronto para envio. Agora vamos nos aprofundar um pouco mais no fluxo de trabalho do Sprint.
+
+- Reunião de Planejamento de Sprint / Backlog
+No início de cada Sprint, as equipes Scrum se reúnem e realizam a reunião de planejamento da Sprint ou Backlog. Essa duração da reunião deve ser de ½ dia para um Sprint de duas semanas, um dia inteiro para um Sprint mensal completo. Nessa reunião, o Time Scrum repassa os Itens do Backlog que foram priorizados pelo dono do produto e se compromete com 1 ou mais Itens do Backlog do produto a serem entregues no final do Sprint.
+
+Após os itens terem sido selecionados, a equipe deve dividir os itens do Backlog em pequenas tarefas necessárias para concluir cada um dos itens e adicioná-los ao Backlog do Sprint. Nessa reunião, alguns Itens do Backlog também podem ser desatribuídos e / ou divididos em Itens que podem ser alcançados dentro do Sprint, sempre lembrando que os Itens do Backlog devem estar prontos para serem enviados e não tarefas para alcançar um dos Itens do Backlog.
+
+- Scrum diário
+Todos os dias, a equipe realiza uma reunião stand-up de cerca de 15 minutos, onde todos os membros da equipe de desenvolvimento compartilham o que foi realizado no dia anterior e o que eles esperam realizar hoje. Também nesta reunião, eles falam sobre quais impedimentos eles têm / preveem para completar o objetivo da Sprint.
+
+Todos os impedimentos devem ser capturados pelo Scrum Master para trabalhar no levantamento dessas barreiras. Esta reunião deve ser preparada pela equipe de desenvolvimento para ser executada todos os dias ao mesmo tempo e no horário. Nenhuma discussão detalhada deve ocorrer nesta reunião.
+
+- Revisão de sprint e retrospectiva
+No final de cada Sprint, a equipe realiza um evento para analisar e refletir sobre o que aconteceu durante o último Sprint. Durante a parte de revisão da reunião, a equipe analisa todo o trabalho que foi concluído durante o Sprint (de acordo com a definição de feito) e o trabalho que não foi concluído. Se o dono do produto decidir entregar um incremento no final do Sprint, a equipe apresentará o trabalho completo aos Stakeholders (demo). Nenhum trabalho incompleto pode ser apresentado às partes interessadas.
+
+A duração da reunião de revisão e retrospectiva do sprint deve ser de 4 horas para um Sprint de duas semanas, metade para revisão e metade para retrospectiva. Na metade retrospectiva da reunião, a equipe reflete sobre o Sprint passado, identifica o que deu certo e o que deve ser melhorado no próximo Sprint.
+
+- Reunião de refinamento do backlog
+Esta não é uma reunião obrigatória a ser executada no fluxo de trabalho da Sprint e geralmente é incluída na reunião de planejamento, mas também pode ser executada no final de cada Sprint. Na reunião de refinamento do Backlog, o dono do produto pode reorganizar as prioridades do Item do Backlog do produto e dividir o Item do Backlog do produto em partes menores com a ajuda da equipe de desenvolvimento. Ao fazer isso, a reunião de planejamento da Sprint pode se concentrar em se comprometer com os Itens de Backlog do produto para essa Sprint e dividir esses Itens em tarefas.
+
+* Por que usar o Scrum?
+Para entender por que devemos usar o Scrum, devemos primeiro entender o que está errado com as metodologias usadas atualmente. Uma delas é o modelo Waterfall que todos conhecemos e “amamos”. A principal questão com o modelo em cascata é a suposição de que, sem dúvida, entendemos tudo o que é necessário no início do projeto.
+
+A primeira introdução formal do modelo em cascata foi feita em 1970 por Winston W. Royce, que escreveu:
+
+Eu acredito neste conceito, mas a implementação descrita acima é arriscada e convida a falha.
+
+Você se lembra da última vez que esteve em um projeto que aplicou o modelo Waterfall e que pode dizer que foi OK e não exigiu horas extras ou solicitações de mudança? Provavelmente não.
+
+Normalmente, a implementação é normalmente usada em projetos de TI, o que é uma implementação falha de uma metodologia desatualizada que não está satisfeita com a mudança. A fase de análise ocorre ao mesmo tempo que alguns dos projetos e desenvolvimentos. Também devido a restrições de tempo, a fase de teste começa antes que a solução geral seja finalizada.
+
+Então, se olharmos mais de perto, esta não é uma implementação do Modelo Cachoeira real, é uma interseção de Modelos Cachoeira menores em uma grande confusão. O projeto geral é dividido em pequenos incrementos para tentar entregar alguns recursos às equipes de teste antes do final da fase de desenvolvimento. De certa forma, as empresas já estão tentando ser mais ágeis em relação aos seus projetos, então por que não se tornar ágil?
+
+No final, o projeto não é para nós, é para um cliente, então ele deve ser capaz de receber o que realmente quer e nenhum cliente sabe o que quer no início de um projeto. Existe alguma metodologia por aí que implemente entregas incrementais menores, seja fácil de planejar, não assuma nada, permita que as mudanças sejam adotadas e reflita no feedback do cliente?
+
+O Scrum pega todas as fases do modelo Waterfall (ou o “modelo Waterfall de algo menor” da imagem acima), insere-as em um mixer e as serve no copo pequeno. Com o Scrum, podemos fornecer pequenos protótipos (Software de Trabalho) após cada interação e obter feedback do cliente (Colaboração do Cliente) para aprimorar ou alterar o projeto (Respondendo à Mudança). Esses são os principais pilares da Metodologia Ágil. Você está pronto para mudar para algo melhor?
+
+* Quem é o Time Scrum?
+O Time Scrum é dividido em 3 funções, cada uma delas com responsabilidades muito específicas para a entrega de incrementos de produtos potencialmente utilizáveis no final de cada Scrum Sprint. Uma pessoa não deve gerenciar mais de um papel no Scrum a qualquer momento.
+
+- Product Owner: A voz do cliente.
+O Product Owner representa os Stakeholders do produto. Ele é responsável por garantir que a equipe de desenvolvimento agregue valor aos negócios. O Product Owner deve estar focado no lado comercial do desenvolvimento do produto, em contato com as partes interessadas e nunca deve ditar como a equipe fornece uma solução técnica.
+
+Como a comunicação é uma das principais responsabilidades desse papel, o Product Owner deve ter a capacidade de ter empatia tanto com a equipe de desenvolvimento quanto com os stakeholders, orientando o desenvolvimento do produto na direção certa. As principais tarefas deste papel durante um Sprint são:
+
+- Gerenciar o Product Backlog, priorizar os itens do backlog do produto (PBI), adicionar e remover itens conforme necessário;
+Negociar prioridades, escopo e cronograma;
+Comunicar o status da equipe para os Stakeholders;
+Apresentar o produto aos Stakeholders no final de cada Sprint.
+
+- Equipe de desenvolvimento – os criadores
+Em um projeto Scrum, a equipe de desenvolvimento é geralmente composta por 3 a 9 indivíduos talentosos que fazem o trabalho real. A equipe deve ter habilidades em todas as áreas (análise, projeto, desenvolvimento, testes, comunicação técnica, documentação, etc.). As equipes de desenvolvimento são multifuncionais e contêm todas as habilidades necessárias para entregar um incremento de produto ao final de cada Sprint. Eles são auto-organizados e responsáveis para gerenciar seu próprio trabalho e manter o Scrum Board.
+
+- Scrum Master – O facilitador do Scrum
+O Scrum Master é responsável por garantir que o framework Scrum seja seguido. Também conhecido como facilitador de equipe, ele é responsável por remover quaisquer impedimentos e distrações que afetem a capacidade da equipe de desenvolvimento de atingir suas metas. As principais tarefas deste papel durante um Sprint são:
+ - Ajudando o Product Owner a gerenciar o Product Backlog;
+ - Ajudar a equipe a determinar a definição de DONE;
+ - Treinando a equipe sobre os princípios do Scrum e a Metodologia Ágil;
+ - Facilite os eventos da equipe para garantir o progresso regular (ou seja, Daily Scrums, sessões-chave);
+ - Educar as partes interessadas sobre os Princípios do Scrum;
+ - Manter os artefatos responsáveis por fornecer feedback às partes interessadas (ou seja, gráfico de crise do Sprint, quadro de discussão).
+
+ Link: https://www.fm2s.com.br/scrum-como-usar
